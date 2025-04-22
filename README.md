@@ -1,9 +1,9 @@
 # 🚀 Data Warehousing and Mining (DWM) Practicals  
 
-🔹 **Student Name:** Tanay Yaduka  
+🔹 **Student Name:**  Anmol Chourasia
 🔹 **Semester:** VI  
 🔹 **Section:** C  
-🔹 **PRN:** 22070521086
+🔹 **PRN:** 22070521091
 
 ---
 
